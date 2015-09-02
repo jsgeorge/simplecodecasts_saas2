@@ -7,7 +7,7 @@ gem 'rails', '4.1.0'
 gem 'sqlite3', group: [:development, :test]
 
 #use bootsratp library for styles
-gem 'bootstrap-sass', '3.3.5'
+#gem 'bootstrap-sass', '3.3.5'
 
 #use postregql as the deatabse for poduction
 group :production do
